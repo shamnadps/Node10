@@ -1,0 +1,17 @@
+{
+  "name": "node10_es6",
+  "version": "1.0.0",
+  "description": "Simple es6 intro with Node10",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --experimental-modules index.mjs"
+  },
+  "author": "Shamnad Shaji",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
